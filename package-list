@@ -1,1 +1,6 @@
-me.defiancecoding.pcdetection
+
+xyz.defiancecoding.proxycheck.api.proxycheck.check
+xyz.defiancecoding.proxycheck.api.proxycheck.dashboard
+xyz.defiancecoding.proxycheck.api.proxycheck.dashboard.results
+xyz.defiancecoding.proxycheck.api.webconnection
+xyz.defiancecoding.proxycheck.exceptions
