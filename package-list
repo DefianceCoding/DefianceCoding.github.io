@@ -1,6 +1,7 @@
-
-xyz.defiancecoding.proxycheck.api.proxycheck.check
-xyz.defiancecoding.proxycheck.api.proxycheck.dashboard
-xyz.defiancecoding.proxycheck.api.proxycheck.dashboard.results
-xyz.defiancecoding.proxycheck.api.webconnection
-xyz.defiancecoding.proxycheck.exceptions
+com.github.defiancecoding.proxycheck
+com.github.defiancecoding.proxycheck.api.proxycheck.check
+com.github.defiancecoding.proxycheck.api.proxycheck.check.results
+com.github.defiancecoding.proxycheck.api.proxycheck.dashboard
+com.github.defiancecoding.proxycheck.api.proxycheck.dashboard.results
+com.github.defiancecoding.proxycheck.api.webconnection
+com.github.defiancecoding.proxycheck.exceptions
